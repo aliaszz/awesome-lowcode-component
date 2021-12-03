@@ -17,3 +17,6 @@
 ## 生成邮件
 - [BEE - 快速生成邮件和专题页](https://beefree.io/)
 - [EDMdesigner - 简洁的响应式EDM](https://edmdesigner.com/)
+- [mailchimp - 适用于商业化产品](https://mailchimp.com/)
+- [postcards - An intuitive email builder for teams and individuals amps up email marketing ideas.](https://designmodo.com/postcards/)
+- [sendgrid - 发送邮件服务](https://sendgrid.com/)
