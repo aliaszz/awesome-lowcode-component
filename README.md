@@ -2,6 +2,9 @@
 
 精选 LowCode 资源列表
 
+## 视频
+- [FFCreatorLite - 短视频制作](https://github.com/tnfe/FFCreatorLite)
+
 ## 搭建方案
 - [门户可视化搭建与Low Code实践](https://segmentfault.com/a/1190000040342196)
 - [美团 乐高 - 美团外卖前端可视化界面组装平台](https://tech.meituan.com/2017/03/09/waimai-lego.html)
