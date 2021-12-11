@@ -4,6 +4,7 @@
 
 ## 视频
 - [FFCreatorLite - 短视频制作](https://github.com/tnfe/FFCreatorLite)
+- [loom - 录屏和鼠标轨迹](https://www.loom.com/)
 
 ## 搭建方案
 - [门户可视化搭建与Low Code实践](https://segmentfault.com/a/1190000040342196)
