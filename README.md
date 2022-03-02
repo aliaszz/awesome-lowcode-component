@@ -3,6 +3,8 @@
 精选 LowCode 资源列表
 
 ## 视频
+- [shida - 视频可视化搭建项目](https://github.com/tnfe/shida)
+- [FFCreator - 基于node.js的高速视频制作库](https://github.com/tnfe/FFCreator)
 - [FFCreatorLite - 短视频制作](https://github.com/tnfe/FFCreatorLite)
 - [loom - 录屏和鼠标轨迹](https://www.loom.com/)
 
@@ -10,6 +12,7 @@
 - [门户可视化搭建与Low Code实践](https://segmentfault.com/a/1190000040342196)
 - [美团 乐高 - 美团外卖前端可视化界面组装平台](https://tech.meituan.com/2017/03/09/waimai-lego.html)
 - [FEX - 前端即服务](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
+- [Doc Willianms - Youtube 视频教程](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA)
 
 ## 搭建平台
 - [阿里 imgcook - 设计稿智能生成代码](https://www.imgcook.com/)
@@ -27,6 +30,8 @@
 - [白码](https://www.bnocode.com/product.html)
 - [织信低代码平台](https://www.informat.cn/)
 - [金蝶云-苍穹](https://www.kingdee.com/products/cosmic.html)
+- [Gadmin - 企业级低代码开发平台](https://www.gadmin8.com/)
+- [360 - 即视](https://arena.360.cn/)
 
 ## 生成邮件
 - [BEE - 快速生成邮件和专题页](https://beefree.io/)
