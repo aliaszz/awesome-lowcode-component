@@ -15,6 +15,8 @@
 - [Doc Willianms - Youtube 视频教程](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA)
 
 ## 搭建平台
+- [adalo](https://www.adalo.com/)
+- [google - appsheet](https://about.appsheet.com/home/)
 - [阿里 imgcook - 设计稿智能生成代码](https://www.imgcook.com/)
 - [腾讯 微搭](https://console.cloud.tencent.com/lowcode/overview/index)
 - [创客贴](https://www.chuangkit.com/)
@@ -32,6 +34,23 @@
 - [金蝶云-苍穹](https://www.kingdee.com/products/cosmic.html)
 - [Gadmin - 企业级低代码开发平台](https://www.gadmin8.com/)
 - [360 - 即视](https://arena.360.cn/)
+- [bildr - No design constraints. Limitless functionality.](https://www.bildr.com/)
+
+## 优秀组件
+- [epage-iview - 基于iview组件库的epage渲染包,低代码可视化配置](https://github.com/epage-team/epage-iview)
+- [epage-vant - 基于vant组件库的epage移动端渲染包 低代码可视化配置](https://github.com/epage-team/epage-vant)
+- [rtvue-lowcode - 基于uni-app框架和uview组件库开发的app可视化拖拽编辑器](https://github.com/GodofOrange/rtvue-lowcode)
+- [vjdesign - Vue 界面可视化设计器](https://github.com/fyl080801/vjdesign)
+- [brick-design](https://github.com/brick-design/brick-design)
+- [qs-cusform - 零代码自定义表单组件扩展](https://github.com/quansitech/qs-cusform)
+- [atom-global-banner - 可视化搭建全局组件](https://github.com/zxhnext/atom-global-banner)
+- [Page Builder - 使用vue3+vite+typescript搭建，支持html、vue代码生产](https://github.com/newbeea/page-builder)
+- [grommet](https://github.com/grommet/grommet)
+- [YAO为开发者提供简单、易用、高性能且易于拓展的无代码开发套件](https://yaoapps.com/components)
+- [LcuSelect - lowcode select component](https://github.com/lowcodeunit/lcu-select)
+- [buildship](https://buildship.dev/)
+- [Webflow NFT widgets - Connect web3 to Webflow without coding skills](https://github.com/buildship-dev/webflow-nft-components)
+- [Carbon Components Builder - UI Fragment Composer by IBM](https://github.com/IBM/carbon-components-builder)
 
 ## 生成邮件
 - [BEE - 快速生成邮件和专题页](https://beefree.io/)
