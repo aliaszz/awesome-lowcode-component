@@ -57,6 +57,14 @@
 - [Webflow NFT widgets - Connect web3 to Webflow without coding skills](https://github.com/buildship-dev/webflow-nft-components)
 - [Carbon Components Builder - UI Fragment Composer by IBM](https://github.com/IBM/carbon-components-builder)
 
+## 数据
+
+- [Airtable](https://airtable.com) - Accelerate work and unlock potential with powerful apps that connect your data, workflows and teams
+- [NocoDB](https://github.com/nocodb/nocodb) - Open Source Airtable Alternative - 将任何 MySQL、Postgres、SQLite 转换为带有 REST API 的Spreadsheet
+- [PostGraphile](https://www.graphile.org/) - 用于 PostgreSQL 的可扩展高性能自动 GraphQL API
+- [ResponseVault](https://ResponseVault.com) - Inspections, Job Hazard Analysis, Checklists, and Daily Reports for your Job Site
+- [Trevor](https://www.trevor.io) - 无需代码即可查询您的实时数据
+
 ## 生成邮件
 - [BEE - 快速生成邮件和专题页](https://beefree.io/)
 - [EDMdesigner - 简洁的响应式EDM](https://edmdesigner.com/)
@@ -67,6 +75,14 @@
 ## 游戏
 - [construct3](https://www.construct.net/en)
 
+## 聊天机器人
+
+- [Botnation](https://botnation.ai/en/) - 在 Messenger、浏览器、移动端上创建聊天机器人
+- [Botsify](https://botsify.com) - 利用no-code聊天机器人平台构建会话流
+- [Chatamo](https://chatamo.com) - 在几分钟内创建用于营销、销售和支持的智能语音和聊天机器人
+- [rulai](https://www.rul.ai) - AI 聊天机器人，并提供可扩展的自助服务
+
+
 ## 移动端
 - [adalo](https://www.adalo.com/)
 - [Appstylo](https://appspotr.com/)
@@ -75,4 +91,6 @@
 
 ## VR
 - [InstaVr - 搭建 VR apps](https://www.instavr.co/)
+
+
 
