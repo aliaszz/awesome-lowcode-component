@@ -1,6 +1,6 @@
 # awesome-lowcode-component
 
-精选 LowCode 资源列表
+精选 LowCode & NoCode 资源列表
 
 ## 视频
 - [shida - 视频可视化搭建项目](https://github.com/tnfe/shida)
@@ -8,11 +8,13 @@
 - [FFCreatorLite - 短视频制作](https://github.com/tnfe/FFCreatorLite)
 - [loom - 录屏和鼠标轨迹](https://www.loom.com/)
 
+
 ## 搭建方案
 - [门户可视化搭建与Low Code实践](https://segmentfault.com/a/1190000040342196)
 - [美团 乐高 - 美团外卖前端可视化界面组装平台](https://tech.meituan.com/2017/03/09/waimai-lego.html)
 - [FEX - 前端即服务](https://os.alipayobjects.com/rmsportal/sJqXvOtwePsVWGNIwlas.pdf)
 - [Doc Willianms - Youtube 视频教程](https://www.youtube.com/channel/UCXv_CS0DaUVS25tFGkRALoA)
+- [京东商城活动页面构建系统](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
 
 ## 搭建平台
 - [adalo](https://www.adalo.com/)
@@ -41,6 +43,7 @@
 - [活字格](https://www.grapecity.com.cn/solutions/huozige)
 - [起步科技](http://www.wex5.com/)
 - [convertigo](https://www.convertigo.com/) - 无需编码即可创建应用程序
+- [京东 - 通天塔](https://babel.m.jd.com/active/babelCommon/index.html#/)
 
 ## 优秀组件
 - [epage-iview - 基于iview组件库的epage渲染包,低代码可视化配置](https://github.com/epage-team/epage-iview)
