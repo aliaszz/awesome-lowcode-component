@@ -60,6 +60,7 @@
 - [buildship](https://buildship.dev/)
 - [Webflow NFT widgets - Connect web3 to Webflow without coding skills](https://github.com/buildship-dev/webflow-nft-components)
 - [Carbon Components Builder - UI Fragment Composer by IBM](https://github.com/IBM/carbon-components-builder)
+- [OpenDataV - 基于Vue3的纯前端拖拽式、可视化、低代码、插件式数据可视化🌈开发平台](https://github.com/AnsGoo/openDataV)
 
 ## 数据
 
